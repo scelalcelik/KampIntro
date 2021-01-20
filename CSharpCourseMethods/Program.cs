@@ -24,7 +24,7 @@ namespace CSharpCourseMethods
             //birbirlerinin yerine kullanılabilirler.
             Console.WriteLine(Multiply(2,4));
             Console.WriteLine(Multiply(2,4,5));
-            Console.WriteLine(Add4(1,2,3,4,5,6));
+            Console.WriteLine(Add4(1,2,3,4,5,6,7));
             Console.ReadLine();
         }
         static void Add()
