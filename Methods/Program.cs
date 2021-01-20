@@ -40,7 +40,7 @@ namespace Methods
             basketManager.Add2("Armut", "Sarı Armut", 12, 10);
             basketManager.Add2("Elma", "Yeşil Elma", 15, 8);
             basketManager.Add2("Karpuz", "Diyarbakır Karpuzu", 18, 9);
-            //Ürünlerde bir düzenleme yapıldığında 2. yöntem sorun çıkarır. Bu yüzden classlardan yararlanmak çok daha mantıklıdır
+            //Ürünlerde bir düzenleme yapıldığında 2. yöntem sorun çıkarır. Bu yüzden metotlardan yararlanmak çok daha mantıklıdır
 
 
 
